@@ -3,7 +3,6 @@
   "description": "Test Automation Project",
   "main": "Main.xaml",
   "dependencies": {
-    "test": "[1.0.1]",
     "UiPath.System.Activities": "[22.4.0]",
     "UiPath.Testing.Activities": "[22.4.1]",
     "UiPath.UIAutomation.Activities": "[22.4.2-preview]"
@@ -47,10 +46,10 @@
         "fileName": "Anupma\\TestCase.xaml"
       },
       {
-        "editingStatus": "Publishable",
-        "testCaseId": "11585215-7e5f-4a83-a14a-61eeb0367050",
+        "editingStatus": "InProgress",
+        "testCaseId": "a913ca85-ae5a-4c13-94f5-4a184330c1e7",
         "testCaseType": "TestCase",
-        "fileName": "Sachin\\TestCase1.xaml"
+        "fileName": "Anupma\\TestCase2.xaml"
       }
     ],
     "modernBehavior": true
