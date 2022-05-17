@@ -1,9 +1,8 @@
-﻿{
+{
   "name": "TestAutomationProject3",
   "description": "Test Automation Project",
   "main": "Main.xaml",
   "dependencies": {
-    "test": "[1.0.1]",
     "UiPath.System.Activities": "[22.4.0]",
     "UiPath.Testing.Activities": "[22.4.1]",
     "UiPath.UIAutomation.Activities": "[22.4.2-preview]"
