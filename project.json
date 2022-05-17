@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "TestAutomationProject3",
   "description": "Test Automation Project",
   "main": "Main.xaml",
@@ -47,21 +47,9 @@
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "61b84a52-0e8d-4a7f-82fc-ef4bdf836ddc",
+        "testCaseId": "a913ca85-ae5a-4c13-94f5-4a184330c1e7",
         "testCaseType": "TestCase",
-        "fileName": "Sachin\\TestCase1.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "fcd0a2cd-0d02-413a-8112-fc7346b9bafb",
-        "testCaseType": "TestCase",
-        "fileName": "Snehitha\\TestCase1.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "f65cad84-ff48-4cc2-a93b-dca95c4dba28",
-        "testCaseType": "TestCase",
-        "fileName": "Awantika\\TestCase.xaml"
+        "fileName": "Anupma\\TestCase2.xaml"
       }
     ],
     "modernBehavior": true
