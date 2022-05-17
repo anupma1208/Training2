@@ -45,6 +45,12 @@
         "testCaseId": "5c542810-eac5-4655-b4c1-2266ef6a1bae",
         "testCaseType": "TestCase",
         "fileName": "Anupma\\TestCase.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "11585215-7e5f-4a83-a14a-61eeb0367050",
+        "testCaseType": "TestCase",
+        "fileName": "Sachin\\TestCase1.xaml"
       }
     ],
     "modernBehavior": true
