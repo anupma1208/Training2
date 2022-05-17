@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "TestAutomationProject3",
   "description": "Test Automation Project",
   "main": "Main.xaml",
@@ -50,6 +50,12 @@
         "testCaseId": "a913ca85-ae5a-4c13-94f5-4a184330c1e7",
         "testCaseType": "TestCase",
         "fileName": "Anupma\\TestCase2.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "8dbdec6b-4f6d-45f4-acc4-2b8d684d7889",
+        "testCaseType": "TestCase",
+        "fileName": "Amaresh\\TestCase.xaml"
       }
     ],
     "modernBehavior": true
