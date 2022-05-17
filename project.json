@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "TestAutomationProject3",
   "description": "Test Automation Project",
   "main": "Main.xaml",
@@ -47,9 +47,9 @@
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "61b84a52-0e8d-4a7f-82fc-ef4bdf836ddc",
+        "testCaseId": "a913ca85-ae5a-4c13-94f5-4a184330c1e7",
         "testCaseType": "TestCase",
-        "fileName": "Sachin\\TestCase1.xaml"
+        "fileName": "Anupma\\TestCase2.xaml"
       }
     ],
     "modernBehavior": true
