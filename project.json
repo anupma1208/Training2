@@ -50,6 +50,12 @@
         "testCaseId": "a913ca85-ae5a-4c13-94f5-4a184330c1e7",
         "testCaseType": "TestCase",
         "fileName": "Anupma\\TestCase2.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "a3208013-326d-43bb-b070-f3c7621caaf3",
+        "testCaseType": "TestCase",
+        "fileName": "AwantikaR\\TestCase01.xaml"
       }
     ],
     "modernBehavior": true
