@@ -1,0 +1,74 @@
+{
+  "name": "TestAutomationProject3",
+  "description": "Test Automation Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.System.Activities": "[22.4.0]",
+    "UiPath.Testing.Activities": "[22.4.1]",
+    "UiPath.UIAutomation.Activities": "[22.4.2-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "22.4.0.0",
+  "projectVersion": "1.0.105251672",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "5c542810-eac5-4655-b4c1-2266ef6a1bae",
+        "testCaseType": "TestCase",
+        "fileName": "Anupma\\TestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "a913ca85-ae5a-4c13-94f5-4a184330c1e7",
+        "testCaseType": "TestCase",
+        "fileName": "Anupma\\TestCase2.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "8dbdec6b-4f6d-45f4-acc4-2b8d684d7889",
+        "testCaseType": "TestCase",
+        "fileName": "Amaresh\\TestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "f734b57a-d6f2-401a-966d-aaa3210c4421",
+        "testCaseType": "TestCase",
+        "fileName": "Sowjanya\\TestCase1.xaml"
+      }
+    ],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
