@@ -42,14 +42,17 @@
       {
         "editingStatus": "Publishable",
         "testCaseId": "5c542810-eac5-4655-b4c1-2266ef6a1bae",
-        "testCaseType": "TestCase",
         "fileName": "Anupma\\TestCase.xaml"
       },
       {
         "editingStatus": "InProgress",
-        "testCaseId": "a913ca85-ae5a-4c13-94f5-4a184330c1e7",
-        "testCaseType": "TestCase",
-        "fileName": "Anupma\\TestCase2.xaml"
+        "testCaseId": "61b84a52-0e8d-4a7f-82fc-ef4bdf836ddc",
+        "fileName": "Sachin\\TestCase1.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "fcd0a2cd-0d02-413a-8112-fc7346b9bafb",
+        "fileName": "Snehitha\\TestCase1.xaml"
       }
     ],
     "modernBehavior": true
